@@ -76,7 +76,3 @@ Follow these steps to set up and run the project:
         python train_svm.py
         ```
 
-4. Evaluate the models:
-    ```bash
-    python evaluate_models.py
-    ```
